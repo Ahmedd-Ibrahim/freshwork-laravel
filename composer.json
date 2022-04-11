@@ -7,6 +7,13 @@
             "AhmeddIbrahim\\Freshwork\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Freshwork\\FreshworkServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Ahmed Ibrahim",
