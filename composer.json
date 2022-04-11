@@ -1,0 +1,23 @@
+{
+    "name": "ahmedd-ibrahim/freshwork",
+    "description": "A Laravel freshwork integration.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AhmeddIbrahim\\Freshwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Ibrahim",
+            "email": "0ahmedibrahem@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.3.1|^7.0.1"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
