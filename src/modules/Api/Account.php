@@ -1,8 +1,8 @@
 <?php
-namespace Freshwork\modules\Api;
+namespace AhmeddIbrahim\Freshwork\modules\Api;
 
-use Freshwork\modules\Client;
-use Freshwork\modules\Traits\HasCrud;
+use AhmeddIbrahim\Freshwork\modules\Client;
+use AhmeddIbrahim\Freshwork\modules\Traits\HasCrud;
 
 class Account extends Client
 {

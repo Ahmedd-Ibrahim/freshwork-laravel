@@ -11,8 +11,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Freshwork\\FreshworkServiceProvider"
-            ]
+                "AhmeddIbrahim\\Freshwork\\FreshworkServiceProvider"
+            ],
+            "aliases": {
+                "Freshworks": "AhmeddIbrahim\\Freshwork\\FreshworkFacade"
+            }
         }
     },
     "authors": [

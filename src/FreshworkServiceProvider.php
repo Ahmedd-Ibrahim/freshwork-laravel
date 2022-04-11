@@ -1,5 +1,5 @@
 <?php
-namespace Freshwork;
+namespace AhmeddIbrahim\Freshwork;
 
 use Illuminate\Support\ServiceProvider;
 

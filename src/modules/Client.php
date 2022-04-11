@@ -1,5 +1,5 @@
 <?php
-namespace Freshwork\modules;
+namespace AhmeddIbrahim\Freshwork\modules;
 
 use Exception;
 use GuzzleHttp\Psr7\Uri;

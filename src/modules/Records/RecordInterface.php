@@ -1,5 +1,5 @@
 <?php
-namespace Freshwork\modules\Records;
+namespace AhmeddIbrahim\Freshwork\modules\Records;
 
 interface RecordInterface
 {

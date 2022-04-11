@@ -1,7 +1,7 @@
 <?php
-namespace Freshwork\modules\Traits;
+namespace AhmeddIbrahim\Freshwork\modules\Traits;
 
-use Freshwork\modules\Records\RecordInterface;
+use AhmeddIbrahim\Freshwork\modules\Records\RecordInterface;
 
 trait HasCrud
 {
