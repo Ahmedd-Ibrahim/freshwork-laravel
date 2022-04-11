@@ -1,8 +1,6 @@
 <?php
 namespace AhmeddIbrahim\Freshwork\modules\Records;
 
-use Freshwork\modules\Records\RecordInterface;
-
 class Record implements RecordInterface
 {
     public $fieldsValues = [];
