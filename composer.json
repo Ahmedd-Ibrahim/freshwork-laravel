@@ -2,6 +2,7 @@
     "name": "ahmedd-ibrahim/freshwork",
     "description": "A Laravel freshwork integration.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "AhmeddIbrahim\\Freshwork\\": "src/"
